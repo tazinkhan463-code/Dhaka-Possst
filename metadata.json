@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Post - Latest Bangladesh & World News",
+  "description": "Leading digital news portal providing authentic 24/7 breaking news, politics, economy, sports, entertainment, regional reports, and video journalism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
